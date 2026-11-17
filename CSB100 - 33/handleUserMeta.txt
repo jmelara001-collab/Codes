@@ -1,0 +1,6 @@
+{
+  "pubInterval": 5000,
+  "amps_por_volt": 100,
+  "tc_primario": 1,
+  "tc_secundario": 1
+}

@@ -1,0 +1,7 @@
+{
+  "pubInterval": 1000,
+  "pulsos_rev": 1,
+  "flanco": 1,
+  "rpm_max": 1000,
+  "rpm_min": 10
+}

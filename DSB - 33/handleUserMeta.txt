@@ -1,0 +1,5 @@
+{
+  "pubInterval": 1000,
+  "invertir": 0,
+  "antirrebote_ms": 0
+}

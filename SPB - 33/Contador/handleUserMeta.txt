@@ -1,0 +1,5 @@
+{
+  "pubInterval": 1000,
+  "pulsos_unidad": 1,
+  "flanco": 1
+}

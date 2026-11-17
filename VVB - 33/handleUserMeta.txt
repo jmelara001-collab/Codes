@@ -1,0 +1,9 @@
+{
+  "pubInterval": ,
+  "unidad": "",
+  "adc_min": ,
+  "adc_max": ,
+  "valor_min": ,
+  "valor_max": ,
+  "alpha": 
+}

@@ -1,0 +1,5 @@
+{
+  "pubInterval": 2000,
+  "estado": 0,
+  "rele_activo": 1
+}

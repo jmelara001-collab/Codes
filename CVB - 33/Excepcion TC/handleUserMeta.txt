@@ -1,0 +1,7 @@
+{
+  "pubInterval": 5000,
+  "diametro": 2.85,
+  "largo": 8.5,
+  "nivel_max": 2.85,
+  "vref": 3.3
+}

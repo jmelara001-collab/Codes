@@ -1,0 +1,4 @@
+{
+  "pubInterval": 1000,
+  "flash": 1
+}

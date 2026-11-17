@@ -1,0 +1,7 @@
+{
+  "pubInterval": 5000,
+  "hilos": 3,
+  "rref": 430,
+  "rnominal": 100,
+  "offset_temp": 0
+}
